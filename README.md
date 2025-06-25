@@ -3,7 +3,7 @@
 <p align="center">
   Fullstack-разработчик. Создаю умных ИИ-ассистентов, Telegram-ботов и комплексные IT-решения.<br>
   Основатель <b>MaXaY Technologies</b><br>
-  <a href="https://github.com/maxay">🌐 github.com/maxay</a>
+  <a href="https://github.com/maxaysoldatov9">🌐 github.com/maxay</a>
 </p>
 
 ---
