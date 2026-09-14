@@ -23,15 +23,7 @@
 
 ---
 
-## 🧠 Моя Активность
 
-<div align="center">
-  <img src="./lifestyle_activity.gif" alt="Рабочий вайб" width="500px"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&center=true&vCenter=true&lines=💻+Code.+Coffee.+Repeat." alt="Typing animation"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
