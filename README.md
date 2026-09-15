@@ -1,60 +1,50 @@
-<div align="center">
+<h1 align="center">Ｍａｋｓｉｍ ‎  ‎ Ｓｏｌｄａｔｏｖ 👋</h1>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:7b68ee,100:4cc9f0&height=220&section=header&text=ＭａｘａＹ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-
-<br>
-
-# 👋 О, ты всё-таки сюда зашёл.
-
-### Значит, код тебя тоже интересует.
-
-<br>
-
-<p>
-  Здесь я превращаю идеи в <b>работающие продукты</b>,<br>
-  ломаю то, что вчера работало, и иногда даже понимаю почему.
+<p align="center">
+  Fullstack-разработчик. Создаю умных ИИ-ассистентов, Telegram-ботов и комплексные IT-решения.<br>
+  Основатель <b>MaXaY Technologies</b><br>
+  <a href="https://github.com/maxaysoldatov9">🌐 github.com/maxay</a>
 </p>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%E2%80%A2+AI+%E2%80%A2+Web+%E2%80%A2+Telegram;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;И+да...+я+люблю+тёмные+интерфейсы+%F0%9F%96%A4" />
-
-<br><br>
-
-<a href="https://github.com/maxaysoldatov9">
-<img src="https://img.shields.io/badge/Смотреть%20проекты-6c5ce7?style=for-the-badge&labelColor=070709" />
-</a>
-
-<a href="https://t.me/maxaydev">
-<img src="https://img.shields.io/badge/Связаться-111116?style=for-the-badge&logo=telegram&logoColor=4cc9f0" />
-</a>
-
-<br><br>
-
-</div>
 
 ---
 
-<div align="center">
+## 🧰 Мои технологии
 
-### 🧠 Кто я?
+<p align="center">
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
 
-**Максим Солдатов — Fullstack-разработчик и основатель MaXaY Technologies.**
+---
 
-<br>
 
-Я не особо люблю писать о себе длинные описания.
 
-Поэтому вот короткая версия:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=maxaysoldatov9&theme=dark" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <sub>📈 Активность отслеживается через <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
+</p>
 
-`💡 придумал` → `🎨 придумал дизайн` → `💻 написал` → `🐛 сломал` → `🔧 починил` → `🚀 запустил`
 
-<br>
+---
 
-**И повторил.**
+## 📫 Связаться со мной
 
-</div>
+- 📧 Email: [soldatovmaksim536@gmail.com](mailto:soldatovmaksim536@gmail.com)  
+- 💬 Telegram: [@maxaydev](https://t.me/maxaydev)
+
+---
+
+<p align="center">
+  > 🌌 *«Я не мечтаю о будущем — я его создаю.»*
+</p>
