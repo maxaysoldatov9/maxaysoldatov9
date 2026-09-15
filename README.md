@@ -59,9 +59,16 @@ status:    открыт к интересным проектам
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&icon_color=3DDCFF&text_color=9CA6C4" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&text_color=9CA6C4" alt="Top Languages"/>
+### 📊 GitHub-статистика
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=maxaysoldatov9&theme=tokyonight" />
+</p>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=maxaysoldatov9&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F2&fire=3DDCFF&currStreakLabel=8A63F2&sideLabels=9CA6C4&dates=6E7894" alt="GitHub Streak"/>
