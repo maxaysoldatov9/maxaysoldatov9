@@ -2,64 +2,52 @@
 
 <br><br>
 
-# Ｍａｋｓｉｍ Ｓｏｌｄａｔｏｖ 👋
-
-### `Fullstack Developer` · `AI` · `Web` · `Automation`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:4cc9f0&height=180&section=header&text=MaXaY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Создаю+то%2C+чем+сам+хочу+пользоваться.;От+идеи+до+работающего+продукта.;Web+%7C+AI+%7C+Bots+%7C+Automation" />
+# Максим Солдатов
 
-<br><br>
+### Я создаю вещи. Иногда — слишком много.
 
 <p>
-  <a href="https://github.com/maxaysoldatov9">
-    <img src="https://img.shields.io/badge/GitHub-070709?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/maxaydev">
-    <img src="https://img.shields.io/badge/Telegram-070709?style=for-the-badge&logo=telegram&logoColor=4cc9f0" />
-  </a>
+  Fullstack-разработка · AI · Telegram · Web · Эксперименты
 </p>
 
 <br>
 
-</div>
-
----
-
-<div align="center">
-
-### ✦ Привет, я Максим
-
-</div>
-
-Я fullstack-разработчик и основатель **MaXaY Technologies**.
-
-Мне нравится превращать идеи в реальные продукты — красивые интерфейсы, веб-приложения, Telegram-ботов, ИИ-ассистентов и инструменты, которые действительно решают задачи.
-
-Не ограничиваюсь одним стеком и постоянно пробую что-то новое.
-
-<br>
-
-<div align="center">
-
-**`Идея → Код → Продукт`**
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Мой стек
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,cpp,bash,git&theme=dark&perline=10" />
+`MAxAY TECHNOLOGIES`
 
 <br><br>
 
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Python`
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Добро пожаловать
+
+</div>
+
+Я Максим.
+
+Пишу код, собираю проекты, ломаю их, переделываю и снова собираю.
+
+Мне нравится момент, когда идея из головы превращается в **что-то настоящее** — страницу, приложение, бота, ассистента или целую систему.
+
+Сейчас мой основной мир:
+
+**JavaScript · TypeScript · React · Node.js · Python**
+
+Но если технология интересная — я почти наверняка попробую её разобрать.
+
+<br>
+
+<div align="center">
+
+> **Код — это инструмент.
+> Идея — главное.**
 
 </div>
 
@@ -69,89 +57,94 @@
 
 <div align="center">
 
-## ✦ Что я создаю
+## ⚡ МОЙ СТЕК
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,cpp,bash,git,github,vscode&theme=dark&perline=6" />
+
+<br><br>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🧩 ЧЕМ Я ЗАНИМАЮСЬ
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🌐 Web
 
-### 🧠 ИИ и автоматизация
+**От первого `<div>` до полноценного продукта.**
 
-Создаю ассистентов, автоматизированные системы и инструменты, которые могут брать на себя рутинные задачи.
+Создаю интерфейсы, сайты и fullstack-приложения.
+Люблю тёмный дизайн, аккуратную типографику и интерфейсы, которыми приятно пользоваться.
 
-<br>
+`React` `JavaScript` `TypeScript` `Node.js`
 
-**AI · Python · APIs · Automation**
+---
 
-</td>
+### 🧠 AI
 
-<td width="50%" valign="top">
+**Зачем делать самому то, что можно автоматизировать?**
 
-### 🌐 Web-разработка
+Экспериментирую с ИИ-ассистентами, API, автоматизацией и собственными инструментами.
 
-Современные сайты и приложения с продуманным интерфейсом и полноценной backend-частью.
+`Python` `AI` `APIs` `Automation`
 
-<br>
-
-**React · JavaScript · Node.js · REST**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 Telegram
 
-Боты, сервисы и автоматизация прямо внутри Telegram.
+**Боты, которые делают больше, чем просто отвечают на `/start`.**
 
-<br>
+Автоматизация, сервисы, взаимодействие с API и небольшие продукты внутри Telegram.
 
-**Node.js · Python · Telegram API**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 Эксперименты
-
-Небольшие проекты, алгоритмы и всё, что помогает становиться сильнее как разработчик.
-
-<br>
-
-**C++ · SQL · Git · Algorithms**
-
-</td>
-</tr>
-</table>
-
-<br>
+`Python` `Node.js` `Telegram API`
 
 ---
 
+### 🧪 Просто интересное
+
+Алгоритмы.
+
+Новые языки.
+
+Странные идеи в 3 часа ночи.
+
+Проекты, которые начинались как
+**«а что если...»**
+
+Именно здесь появляется большая часть моих экспериментов.
+
+---
+
+<br>
+
 <div align="center">
 
-## 🚀 Сейчас строю
+## 🖥️ MAxAY TECHNOLOGIES
 
 <br>
 
-### MaXaY Technologies
+### Не компания ради названия.
 
-**Небольшая идея → большая система.**
+### Это пространство, где я строю свои идеи.
 
 <br>
 
-Создаю собственные проекты, экспериментирую с AI,
-изучаю архитектуру приложений и постепенно превращаю
-MaXaY Technologies в полноценную экосистему цифровых продуктов.
+Создаю собственные проекты, инструменты и эксперименты,
+которые со временем могут превратиться во что-то большее.
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-ОНЛАЙН-111116?style=for-the-badge&labelColor=070709&color=6c5ce7" />
+`BUILDING` · `EXPERIMENTING` · `LEARNING`
 
 </div>
 
@@ -161,17 +154,29 @@ MaXaY Technologies в полноценную экосистему цифровы
 
 <div align="center">
 
-## 📊 GitHub
+## 🔮 ЧТО ДАЛЬШЕ?
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&include_all_commits=true&hide_border=true&bg_color=070709&title_color=9b8cff&text_color=f5f5f7&icon_color=6c5ce7&ring_color=6c5ce7" />
+```text
+      IDEA
+       ↓
+     DESIGN
+       ↓
+      CODE
+       ↓
+     TEST
+       ↓
+     BREAK
+       ↓
+     REBUILD
+       ↓
+     PRODUCT
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&hide_border=true&bg_color=070709&title_color=9b8cff&text_color=f5f5f7&icon_color=4cc9f0" />
+<br>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=maxaysoldatov9&theme=dark&hide_border=true&background=070709&ring=6c5ce7&fire=4cc9f0&currStreakLabel=9b8cff&sideLabels=898992&dates=898992" />
+**И этот цикл мне нравится.**
 
 </div>
 
@@ -181,26 +186,42 @@ MaXaY Technologies в полноценную экосистему цифровы
 
 <div align="center">
 
-## 🌌 Найди меня
+## 📈 GitHub
 
 <br>
 
-<a href="https://t.me/maxaydev">
-  <img src="https://img.shields.io/badge/Telegram-@maxaydev-111116?style=for-the-badge&logo=telegram&logoColor=4cc9f0" />
-</a>
-
-<a href="mailto:soldatovmaksim536@gmail.com">
-  <img src="https://img.shields.io/badge/Email-soldatovmaksim536%40gmail.com-111116?style=for-the-badge&logo=gmail&logoColor=9b8cff" />
-</a>
-
-<br><br><br>
-
-### `MaXaY Technologies`
-
-<i>Я не мечтаю о будущем — я его создаю.</i>
+<img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&include_all_commits=true&hide_border=true&bg_color=070709&title_color=9b8cff&text_color=f5f5f7&icon_color=6c5ce7" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maxaysoldatov9&style=flat-square&color=6c5ce7&label=PROFILE+VIEWS" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&hide_border=true&bg_color=070709&title_color=9b8cff&text_color=f5f5f7&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=maxaysoldatov9&hide_border=true&background=070709&ring=6c5ce7&fire=4cc9f0&currStreakLabel=9b8cff&sideLabels=898992&dates=898992" />
+
+</div>
+
+---
+
+<br><br>
+
+<div align="center">
+
+### 👑 MaXaY Technologies
+
+<br>
+
+**Создаю. Ошибаюсь. Учусь. Создаю лучше.**
+
+<br><br>
+
+<a href="https://github.com/maxaysoldatov9">GitHub</a>
+  ·   <a href="https://t.me/maxaydev">Telegram</a>
+  ·   <a href="mailto:soldatovmaksim536@gmail.com">Email</a>
+
+<br><br>
+
+<sub>© 2026 MaXaY Technologies</sub>
 
 </div>
