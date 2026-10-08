@@ -48,8 +48,6 @@ status:    открыт к интересным проектам
 | [**FinanceDashboard**](https://github.com/maxaysoldatov9/FinanceDashboard) | Дашборд личных финансов | 🔨 активная разработка |
 | [**MaXaY-game**](https://github.com/maxaysoldatov9/MaXaY-game) | Игровой проект | 🌱 развивается |
 
-> ✏️ Поправь описания и статусы под реальность. Лучше написать честно «в разработке», чем приукрасить.
-
 ---
 
 ## 🧰 Технологический стек
@@ -77,11 +75,20 @@ status:    открыт к интересным проектам
 
 ### ⏱️ Моя неделя в коде
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- Замени ссылки ниже на свои графики из WakaTime (Embeddable Charts) -->
+<div align="center">
+
+<img src="https://wakatime.com/share/@ТВОЙ_НИК/ID_ГРАФИКА_ЯЗЫКОВ.svg" width="48%" alt="Языки (WakaTime)"/>
+<img src="https://wakatime.com/share/@ТВОЙ_НИК/ID_ГРАФИКА_РЕДАКТОРОВ.svg" width="48%" alt="Редакторы (WakaTime)"/>
+
+<br/>
+
+<img src="https://wakatime.com/share/@ТВОЙ_НИК/ID_ГРАФИКА_ПО_ДНЯМ.svg" width="98%" alt="Активность по дням (WakaTime)"/>
+
+</div>
 
 <p align="center">
-  <sub>Статистика обновляется автоматически: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и <a href="https://wakatime.com">WakaTime</a></sub>
+  <sub>Данные: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и <a href="https://wakatime.com">WakaTime</a></sub>
 </p>
 
 ---
