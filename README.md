@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Email-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 <a href="https://github.com/maxaysoldatov9">
-  <img src="https://img.shields.io/badge/GitHub-maxay-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-maxaysoldatov9-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
 </a>
 
 </div>
@@ -34,10 +34,21 @@ status:    открыт к интересным проектам
 ```
 
 - 🧠 Разрабатываю **умных ИИ-ассистентов** и автоматизированные системы
-- 🤖 Создаю **Telegram-ботов** любой сложности — от MVP до продакшена
+- 🤖 Создаю **Telegram-ботов** — от MVP до продакшена
 - 🏗️ Строю **комплексные IT-решения**: backend, API, интеграции
 - 🚀 Основатель студии **MaXaY Technologies**
 - 🌱 Постоянно изучаю новое в AI/ML и современном вебе
+
+---
+
+## 🛠️ Сейчас в работе
+
+| Проект | Что это | Статус |
+|:--|:--|:--|
+| [**FinanceDashboard**](https://github.com/maxaysoldatov9/FinanceDashboard) | Дашборд личных финансов | 🔨 активная разработка |
+| [**MaXaY-game**](https://github.com/maxaysoldatov9/MaXaY-game) | Игровой проект | 🌱 развивается |
+
+> ✏️ Поправь описания и статусы под реальность. Лучше написать честно «в разработке», чем приукрасить.
 
 ---
 
@@ -55,30 +66,22 @@ status:    открыт к интересным проектам
 
 ---
 
-## 📊 GitHub-статистика
+## 📊 Активность
 
 <div align="center">
 
-### 📊 GitHub-статистика
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=maxaysoldatov9&theme=tokyonight" />
-</p>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maxaysoldatov9&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F2&fire=3DDCFF&currStreakLabel=8A63F2&sideLabels=9CA6C4&dates=6E7894" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maxaysoldatov9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaysoldatov9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 
 </div>
 
+### ⏱️ Моя неделя в коде
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
-  <sub>📈 Статистика формируется автоматически через
-  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
+  <sub>Статистика обновляется автоматически: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и <a href="https://wakatime.com">WakaTime</a></sub>
 </p>
 
 ---
